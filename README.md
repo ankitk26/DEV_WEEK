@@ -44,3 +44,12 @@ Lets divide this week into smaller tasks.
 - <a href="https://github.com/singhsuryansh12">Suryansh</a>
 - <a href="https://github.com/ashusketch382">Ashutosh</a>
 - <a href="https://github.com/saujanya01">Saujanya</a>
+
+## Submissions
+
+- Ankur Singh => https://update-ankur.github.io/
+- Saketh Kumar Pabba => https://sakpab2602.github.io/sakpab2602/
+- Aprajita Kumari => https://aprajita479.github.io/
+- Zeeshan Equbal => https://zee-bit.github.io/
+- Ankit Kumar => https://ankitk26.github.io/
+- Dipan Mukhopadhyay=>https://dipjsr16.github.io/
